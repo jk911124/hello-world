@@ -1,2 +1,3 @@
 # hello-world
-practice git
+
+Hello, my name is James, and I seek to practice git.
